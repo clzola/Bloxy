@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417876034 source:c:\users\lazar\desktop\bloxy assets\bloxybinlevelwritter\main.cpp
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<cstring>
+

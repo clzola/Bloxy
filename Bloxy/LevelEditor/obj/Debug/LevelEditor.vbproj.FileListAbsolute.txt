@@ -1,0 +1,17 @@
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\LevelEditor.xml
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.BloxyLevelEditor.resources
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.Resources.resources
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.vbproj.GenerateResource.Cache
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.xml
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.pdb
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.MapDebug.resources
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\obj\Debug\LevelEditor.vbprojResolveAssemblyReference.cache
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\JsonBlueprints.dll
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\JsonBlueprints.pdb
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\JsonBlueprints.xml
+C:\Users\Lazar\Desktop\Bloxy\LevelEditor\bin\Debug\Newtonsoft.Json.xml

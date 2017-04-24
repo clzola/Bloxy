@@ -1,0 +1,8 @@
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\obj\Debug\JsonBlueprints.Resources.resources
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\obj\Debug\JsonBlueprints.vbproj.GenerateResource.Cache
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\bin\Debug\JsonBlueprints.dll
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\bin\Debug\JsonBlueprints.pdb
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\bin\Debug\JsonBlueprints.xml
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\obj\Debug\JsonBlueprints.dll
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\obj\Debug\JsonBlueprints.xml
+C:\Users\Lazar\Desktop\Bloxy\JsonBlueprints\obj\Debug\JsonBlueprints.pdb
